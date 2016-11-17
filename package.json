@@ -1,0 +1,14 @@
+{
+  "name": "myFirstProject",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Alex Goedken",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
